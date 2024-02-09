@@ -1,0 +1,52 @@
+.shop{
+    background: linear-gradient(180deg,#fde1ff,#e1ffea22 60%);
+    height: 100vh;
+    display: flex;
+    
+   
+}
+.shop-left{
+flex: 1;
+display: flex;
+flex-direction: column;
+justify-content: center;
+gap: 20px;
+padding-left: 180px;
+line-height: 1;
+
+}
+.shop-left h2 {
+    color: #090909;
+    font-size: 50px;
+    font-weight: 600;
+}
+.shop-right{
+    flex: 1;
+    display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.handIcon{
+    height: 70px;
+    width: 70px;
+    margin-top: 25px;
+    margin-left: 10px;
+    border: 2px solid blue;
+}
+.girl{
+    height: 50%;
+    width: 50%;
+}
+.one{
+    display: flex;
+    flex-direction: row;
+}
+.btn{
+    height: 35px;
+    width: 170px;
+    font-size: 18px;
+    background-color: red;
+    color: white;
+    border-radius: 75px;
+}

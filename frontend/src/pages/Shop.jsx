@@ -1,9 +1,10 @@
-import React from 'react'
+import React from "react";
+import Home from "../components/Home/Home";
 
 const Shop = () => {
   return (
-    <div>Shop</div>
-  )
-}
+    <Home/>
+  );
+};
 
-export default Shop
+export default Shop;
