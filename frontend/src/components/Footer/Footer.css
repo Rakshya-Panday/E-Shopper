@@ -1,0 +1,35 @@
+
+.footer-logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+}
+.footer-logo p{
+    font-size: 25px;
+    font-weight: 600;
+    
+}
+.footer-links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.footer-links li{
+    list-style: none;
+    font-size: 18px;
+}
+.footer-icons-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.footer-copyright{
+display: flex;
+    justify-content: center;
+    align-items: center;
+}
